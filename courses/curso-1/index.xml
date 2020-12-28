@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introducción a los contenidos | Mi nombre</title>
-    <link>/courses/curso-1/</link>
-      <atom:link href="/courses/curso-1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/academic-site/courses/curso-1/</link>
+      <atom:link href="/academic-site/courses/curso-1/index.xml" rel="self" type="application/rss+xml" />
     <description>Introducción a los contenidos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ES</language><copyright>Todos los derechos reservados. 2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
+      <url>/academic-site/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
       <title>Introducción a los contenidos</title>
-      <link>/courses/curso-1/</link>
+      <link>/academic-site/courses/curso-1/</link>
     </image>
     
     <item>
       <title>Nombre de la sección</title>
-      <link>/courses/curso-1/capitulo/</link>
+      <link>/academic-site/courses/curso-1/capitulo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/curso-1/capitulo/</guid>
+      <guid>/academic-site/courses/curso-1/capitulo/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Nombre de la sección 2</title>
-      <link>/courses/curso-1/capitulo2/</link>
+      <link>/academic-site/courses/curso-1/capitulo2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/curso-1/capitulo2/</guid>
+      <guid>/academic-site/courses/curso-1/capitulo2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;

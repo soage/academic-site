@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artículos | Mi nombre</title>
-    <link>/en/tag/articulos/</link>
-      <atom:link href="/en/tag/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>/academic-site/en/tag/articulos/</link>
+      <atom:link href="/academic-site/en/tag/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Artículos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><copyright>Todos los derechos reservados. 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
+      <url>/academic-site/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
       <title>Artículos</title>
-      <link>/en/tag/articulos/</link>
+      <link>/academic-site/en/tag/articulos/</link>
     </image>
     
     <item>
       <title>Estimación tipo núcleo de densidades</title>
-      <link>/en/publication/nombre-articulo/</link>
+      <link>/academic-site/en/publication/nombre-articulo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/publication/nombre-articulo/</guid>
+      <guid>/academic-site/en/publication/nombre-articulo/</guid>
       <description>&lt;p&gt;Aquí podemos escribir más cosas en formato Markdown&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

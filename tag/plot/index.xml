@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot | Mi nombre</title>
-    <link>/tag/plot/</link>
-      <atom:link href="/tag/plot/index.xml" rel="self" type="application/rss+xml" />
+    <link>/academic-site/tag/plot/</link>
+      <atom:link href="/academic-site/tag/plot/index.xml" rel="self" type="application/rss+xml" />
     <description>plot</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ES</language><copyright>Todos los derechos reservados. 2020</copyright><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
+      <url>/academic-site/images/icon_hu1ece34e0bf70d9d7ad00215ebbb015ff_8113_512x512_fill_lanczos_center_2.png</url>
       <title>plot</title>
-      <link>/tag/plot/</link>
+      <link>/academic-site/tag/plot/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/post1/</link>
+      <link>/academic-site/post/post1/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/post1/</guid>
+      <guid>/academic-site/post/post1/</guid>
       <description>
 
 
